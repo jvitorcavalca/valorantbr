@@ -17,7 +17,7 @@ JavaScript: A linguagem que faz toda a mágica acontecer! É ela quem busca pelo
 CSS: A linguagem que deixa tudo bonitinho e com a cara do seu site.
 Quer ver o código funcionando?
 
-[Link para o seu repositório]
+https://jvitorcavalca.github.io/valorantbr/
 
 Contribua para o projeto!
 
